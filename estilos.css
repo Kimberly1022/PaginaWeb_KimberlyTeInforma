@@ -1,0 +1,111 @@
+
+.agrupar{
+    border: 1px solid #2d3436;
+    width: 960px;
+    height: 100%;
+    margin: 15px auto;
+
+}
+
+h1 {
+    font-size:  30px; 
+    font-family: sans-serif;
+    font-weight: bold;  
+}
+
+body{
+    text-align: center;
+  
+}
+
+header{
+  
+    background:#FFE9EF;
+    padding: 5px;
+    text-align: left;
+
+}
+
+.menu{
+    background:#ead1dc;
+    text-align: left;
+    border: 1px solid #E5D1D7;
+}
+
+.menu ul{
+    padding-inline-start: 3px;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: bold 17px sans-serif;
+    display: inline-block;
+
+
+}
+
+.submenu li{
+    list-style: none;
+    padding: 3px;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: left;
+    display: block;
+
+
+}
+
+.seccion {
+    margin: 15px;
+    width: 600px;
+    float: left;
+   
+}
+
+.seccion p{
+    text-align: justify;
+    font-family: sans-serif
+}
+
+.columna{
+    margin: 20px 0px;
+    width: 300px;
+    height: 500px;
+    float: left;
+    border: 1px solid black;
+    font-family: sans-serif;
+}
+
+.columna p{
+    text-align: justify;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+.columna h4{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.columna h5{
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 20px ;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 20px ;
+    padding: 15px;
+    background: #2d3436;
+    color: white ;
+    font-family: sans-serif;
+
+}
+
+.pie{
+    clear: both;
+   
+}
